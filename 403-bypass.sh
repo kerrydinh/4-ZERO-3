@@ -1505,7 +1505,6 @@ function 403bypass(){
 	Header_Bypass
 	Protocol_Bypass
 	Port_Bypass
-	HTTP_Method_Bypass
 	URL_Encode_Bypass
 	SQLi_libinjection
 }
